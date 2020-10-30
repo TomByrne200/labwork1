@@ -1,0 +1,103 @@
+@media only screen and (max-width: 900px)
+
+
+body{
+  background-color: #C43C1E;
+}
+
+.nav{
+  text-align: center;
+  background-color: #FF8D36;
+}
+
+
+
+li{
+  display: inline;
+  padding: 15px;
+}
+
+a{
+  color: #F9F7DC;
+}
+
+
+.heading{
+  text-align: center;
+  color: #F9F7DC;
+  background-color: #FF8D36;
+  border: 15px solid #F9F7DC;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+
+img{
+  display: inline;
+  padding: 20px;
+}
+
+.left{
+ width: 250px;
+ position: relative; left: 10%;
+ border: 15px solid #F9F7DC;
+ background-color: #DF7119;
+}
+
+.center{
+  width: 250px;
+  position: relative; left: 20%; top: 10px;
+  border: 15px solid #F9F7DC;
+  background-color: #DF7119;
+
+}
+
+.right{
+ width: 250px;
+ position:relative; left: 30%;
+ border: 15px solid #F9F7DC;
+ background-color: #DF7119;
+}
+
+
+
+
+}
+.container-md{
+  width: 400px;
+  border: 15px solid #F9F7DC;
+ padding: 50px;
+ margin: 20px;
+ background-color: #DF7119;
+}
+
+
+.container-md{
+  width: 400px;
+  border: 15px solid #F9F7DC;
+ padding: 50px;
+ margin: 20px;
+ background-color: #DF7119;
+ float: right;
+ position: relative; top: -315px;
+}
+
+.para3{
+  border: 15px solid #F9F7DC;
+ padding: 50px;
+ margin: 20px;
+ background-color: #DF7119;
+}
+
+.para4{
+  border: 15px solid #F9F7DC;
+ padding: 50px;
+ margin: 20px;
+ background-color: #DF7119;
+}
+
+p{
+
+  color: #F9F7DC;
+  display: inline;
+  font-family: 'Port Lligat Slab', serif;
+}
